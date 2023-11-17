@@ -33,3 +33,5 @@ LDA es un modelo probabilístico ampliamente utilizado en el análisis de texto 
 Nota: Es importante resaltar que este codigo se corrio en la plataforma en la nube de AZURE, donde se consumieron recursos de USD$100 aproximadamente.
 Estos recursos se utilizaron para el adjuste del codigo y correrlo varias veces hasta obtener todas las graficas deseadas. 
 
+La utilma version del codigo corrido con los resultados mas actualizados esta en el archivo: "Clustering_articulos_SBERT_final_final.iypnb"
+
