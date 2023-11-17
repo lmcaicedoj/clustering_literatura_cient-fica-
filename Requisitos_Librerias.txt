@@ -1,0 +1,26 @@
+Requisitos: 
+Aqui se instalaron las siguientes librerias:
+
+(i) Sentence-transformers: Proporciona una interfaz fácil de usar para calcular vectores de incrustación (embeddings) de oraciones o documentos completos. Está diseñada para tareas de procesamiento de lenguaje natural, como recuperación de información, clasificación de texto y búsqueda semántica. Utiliza modelos pre-entrenados como BERT y RoBERTa para generar representaciones semánticas de texto.
+torch (PyTorch):
+
+(ii) PyTorch: es un marco de aprendizaje profundo de código abierto. Se utiliza para la creación y entrenamiento de redes neuronales y otros modelos de aprendizaje automático. Es especialmente popular en la investigación de inteligencia artificial debido a su flexibilidad y capacidades de cálculo en GPU.
+nltk (Natural Language Toolkit):
+
+(iii) NLTK: es una biblioteca ampliamente utilizada en procesamiento de lenguaje natural. Proporciona herramientas y recursos para tareas como tokenización, lematización, análisis de sentimientos, análisis de texto y más. Es una biblioteca valiosa para tareas de procesamiento de texto y lingüística computacional.
+
+(iv) langdetect: Esta biblioteca se utiliza para detectar automáticamente el idioma de un texto dado. Puede ser útil cuando se trabaja con textos de múltiples idiomas y se necesita identificar el idioma para el procesamiento posterior.
+sparknlp:
+
+(v) SparkNLP: es una biblioteca de procesamiento de lenguaje natural diseñada para funcionar con Apache Spark. Proporciona herramientas para el procesamiento de texto a gran escala y se utiliza en aplicaciones de análisis de texto distribuido.
+gensim:
+
+(vi) Gensim: es una biblioteca popular para modelado de temas y vectores de palabras (word embeddings). Se utiliza para entrenar modelos como Word2Vec y para realizar operaciones de procesamiento de texto como la similitud de documentos, la búsqueda de palabras similares y la creación de modelos LDA (Latent Dirichlet Allocation) para la identificación de tópicos en documentos.
+WordCloud:
+
+(vii) WordCloud: Esta biblioteca se utiliza para generar visualizaciones de nubes de palabras a partir de un conjunto de texto. Estas visualizaciones resaltan las palabras más frecuentes en un corpus de texto y son útiles para resumir temas clave en un conjunto de documentos o para hacer que el texto sea más accesible visualmente.
+
+Cada una de estas bibliotecas cumple una función específica en el procesamiento de texto y el análisis de lenguaje natural en Python y se eligen según las necesidades y los objetivos del proyecto.
+
+Nota: Es importante resaltar que este codigo se corrio en la plataforma en la nube de AZURE, donde se consumieron recursos de USD$100 aproximadamente.
+Estos recursos se utilizaron para el adjuste del codigo y correrlo varias veces hasta obtener todas las graficas deseadas. 
